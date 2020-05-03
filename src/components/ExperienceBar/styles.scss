@@ -1,0 +1,19 @@
+.experience-bar {
+    width: 100%;;
+
+    .title {
+        text-transform: uppercase;
+        margin-bottom: 10px;
+    }
+
+    .bar {
+        width: 100%;
+        height: 15px;
+        border: 1px solid #fff;
+
+        .progress {
+            height: 100%;
+            background-color: #fff;;
+        }
+    }
+}

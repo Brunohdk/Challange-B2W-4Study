@@ -1,11 +1,10 @@
 import React from 'react'
 
-export default function App() {
-  return (
-   <div>
+import Main from './pages/main'
 
-   </div>
-  );
+export default function App() {
+  
+  return <Main />
 }
 
 
